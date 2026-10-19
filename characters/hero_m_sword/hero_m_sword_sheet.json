@@ -1,0 +1,268 @@
+{
+ "id": "hero_m_sword",
+ "height_m": 1.8,
+ "stride_m": {
+  "idle": 0.0,
+  "walk": 0.861,
+  "run": 0.0
+ },
+ "cycles_per_s": {
+  "idle": 0.75,
+  "walk": 1.25,
+  "run": 1.75
+ },
+ "cell_w": 201,
+ "cell_h": 256,
+ "frames": 8,
+ "rows": [
+  "idle_down",
+  "idle_up",
+  "idle_left",
+  "idle_right",
+  "idle_down_right",
+  "idle_down_left",
+  "idle_up_right",
+  "idle_up_left",
+  "walk_down",
+  "walk_up",
+  "walk_left",
+  "walk_right",
+  "walk_down_right",
+  "walk_down_left",
+  "walk_up_right",
+  "walk_up_left"
+ ],
+ "fps": {
+  "idle": 6,
+  "walk": 10
+ },
+ "feet_from_bottom_px": 1.6,
+ "clips": {
+  "idle_down": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_up": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_left": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_right": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_down_right": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_down_left": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_up_right": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "idle_up_left": {
+   "period_frames": 94,
+   "period_err": 0.0,
+   "source_frames": [
+    24,
+    36,
+    48,
+    59,
+    71,
+    83,
+    94,
+    106
+   ]
+  },
+  "walk_down": {
+   "period_frames": 25,
+   "period_err": 2.21,
+   "source_frames": [
+    24,
+    27,
+    30,
+    33,
+    36,
+    40,
+    43,
+    46
+   ]
+  },
+  "walk_up": {
+   "period_frames": 37,
+   "period_err": 3.28,
+   "source_frames": [
+    24,
+    29,
+    33,
+    38,
+    42,
+    47,
+    52,
+    56
+   ]
+  },
+  "walk_left": {
+   "period_frames": 35,
+   "period_err": 6.9,
+   "source_frames": [
+    24,
+    28,
+    33,
+    37,
+    42,
+    46,
+    50,
+    55
+   ],
+   "stride_share": 0.551
+  },
+  "walk_right": {
+   "period_frames": 29,
+   "period_err": 5.81,
+   "source_frames": [
+    24,
+    28,
+    31,
+    35,
+    38,
+    42,
+    46,
+    49
+   ],
+   "stride_share": 0.406
+  },
+  "walk_down_right": {
+   "period_frames": 29,
+   "period_err": 3.61,
+   "source_frames": [
+    24,
+    28,
+    31,
+    35,
+    38,
+    42,
+    46,
+    49
+   ]
+  },
+  "walk_down_left": {
+   "period_frames": 29,
+   "period_err": 2.76,
+   "source_frames": [
+    24,
+    28,
+    31,
+    35,
+    38,
+    42,
+    46,
+    49
+   ]
+  },
+  "walk_up_right": {
+   "period_frames": 38,
+   "period_err": 0.98,
+   "source_frames": [
+    24,
+    29,
+    34,
+    38,
+    43,
+    48,
+    52,
+    57
+   ]
+  },
+  "walk_up_left": {
+   "period_frames": 29,
+   "period_err": 4.56,
+   "source_frames": [
+    24,
+    28,
+    31,
+    35,
+    38,
+    42,
+    46,
+    49
+   ]
+  }
+ }
+}
